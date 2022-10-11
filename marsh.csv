@@ -1,0 +1,132 @@
+﻿transect_no,position,species,cover,elevation,salinity,maxheight
+eve,0,pickelweed,2,84.5,38,45
+eve,0,spartina a,78,84.5,38,45
+eve,0,bare,20,84.5,38,45
+eve,3,pickelweed,4,80.9,NA,47
+eve,3,spartina a,81,80.9,NA,47
+eve,3,bare,15,80.9,NA,47
+eve,6,pickelweed,1,86.3,NA,45
+eve,6,bare,10,86.3,NA,45
+eve,6,spartina a,89,86.3,NA,45
+eve,9,pickelweed,2,86,NA,46.9
+eve,9,bare,9,86,NA,46.9
+eve,9,spartina a,81,86,NA,46.9
+eve,12,spartina a,10,86.2,NA,52.4
+eve,12,spartina p,70,86.2,NA,52.4
+eve,12,dist,20,86.2,NA,52.4
+eve,15,dist,35,85.9,35,69.2
+eve,15,spartina p,65,85.9,35,69.2
+eve,18,dist,40,86.6,NA,29
+eve,18,spartina p,60,86.6,NA,29
+eve,21,dist,20,91.1,NA,39.6
+eve,21,spartina p,79,91.1,NA,39.6
+eve,21,pickelweed,1,91.1,NA,39.6
+eve,24,pickelweed,1,93.3,NA,34
+eve,24,dist,15,93.3,NA,34
+eve,24,spartina p,84,93.3,NA,34
+eve,27,spartina a,60,98.5,34,52
+eve,27,spartina p,29,98.5,34,52
+eve,27,pickelweed,2,98.5,34,52
+eve,27,dist,9,98.5,34,52
+jeff,0,pickelweed,1,83.9,40,54
+jeff,0,bare,25,83.9,40,54
+jeff,0,spartina a,74,83.9,40,54
+jeff,3,spartina a,80,68.4,NA,37
+jeff,3,bare,20,68.4,NA,37
+jeff,6,bare,10,68.5,NA,35
+jeff,6,water,8,68.5,NA,35
+jeff,6,pickelweed,5,68.5,NA,35
+jeff,6,spartina a,77,68.5,NA,35
+jeff,9,spartina a,15,59.5,NA,34
+jeff,9,bare,3,59.5,NA,34
+jeff,9,spartina p,75,59.5,NA,34
+jeff,9,dist,7,59.5,NA,34
+jeff,12,dist,10,52,NA,43
+jeff,12,spartina p,63,52,NA,43
+jeff,12,bare,3,52,NA,43
+jeff,12,pickelweed,4,52,NA,43
+jeff,12,spartina a,10,52,NA,43
+jeff,15,water,30,50.5,40,61
+jeff,15,dist,5,50.5,40,61
+jeff,15,spartina p,5,50.5,40,61
+jeff,15,spartina a,60,50.5,40,61
+jeff,18,bare,3,49.5,NA,33
+jeff,18,spartina a,2,49.5,NA,33
+jeff,18,unk,10,49.5,NA,33
+jeff,18,spartina p,75,49.5,NA,33
+jeff,21,bare,2,52,NA,54
+jeff,21,spartina a,8,52,NA,54
+jeff,21,dist,25,52,NA,54
+jeff,21,spartina p,64,52,NA,54
+jeff,21,pickelweed,1,52,NA,54
+jeff,24,phragmites,2,46.5,NA,67
+jeff,24,bare,1,46.5,NA,67
+jeff,24,dist,45,46.5,NA,67
+jeff,24,spartina p,52,46.5,NA,67
+jeff,27,bare,8,41,32,35
+jeff,27,spartina p,47,41,32,35
+jeff,27,dist,45,41,32,35
+jonathan,0,pickelweed,1,60.2,38,38
+jonathan,0,spartina p,59,60.2,38,38
+jonathan,0,spartina a,40,60.2,38,38
+jonathan,3,spartina a,50,84.9,NA,50.4
+jonathan,3,spartina p,40,84.9,NA,50.4
+jonathan,3,bare,10,84.9,NA,50.4
+jonathan,6,spartina p,70,78.5,NA,61.9
+jonathan,6,bare,5,78.5,NA,61.9
+jonathan,6,spartina a,25,78.5,NA,61.9
+jonathan,9,spartina a,10,78.7,NA,48.2
+jonathan,9,spartina p,89,78.7,NA,48.2
+jonathan,9,bare,1,78.7,NA,48.2
+jonathan,12,bare,15,77.5,NA,53.3
+jonathan,12,spartina a,5,77.5,NA,53.3
+jonathan,12,spartina p,79,77.5,NA,53.3
+jonathan,12,dist,1,77.5,NA,53.3
+jonathan,15,pickelweed,1,81.2,34,62.1
+jonathan,15,bare,5,81.2,34,62.1
+jonathan,15,spartina a,3,81.2,34,62.1
+jonathan,15,dist,3,81.2,34,62.1
+jonathan,15,spartina p,88,81.2,34,62.1
+jonathan,18,bare,2,81.8,NA,17
+jonathan,18,dist,3,81.8,NA,17
+jonathan,18,spartina p,95,81.8,NA,17
+jonathan,21,iva,15,80.2,NA,79
+jonathan,21,dist,2,80.2,NA,79
+jonathan,21,spartina p,68,80.2,NA,79
+jonathan,21,bare,15,80.2,NA,79
+jonathan,24,bare,60,97.2,NA,124
+jonathan,24,iva,13,97.2,NA,124
+jonathan,24,dist,1,97.2,NA,124
+jonathan,24,spartina p,26,97.2,NA,124
+jonathan,27,pickelweed,1,80.9,34,57.5
+jonathan,27,spartina p,89,80.9,34,57.5
+jonathan,27,spartina a,7,80.9,34,57.5
+jonathan,27,bare,5,80.9,34,57.5
+ruby,0,water,29,47,38,43
+ruby,0,spartina a,70,47,38,43
+ruby,0,pickelweed,1,47,38,43
+ruby,3,spartina a,99,46,NA,48
+ruby,3,pickelweed,1,46,NA,48
+ruby,6,spartina p,65,44,NA,47
+ruby,6,spartina a,64,44,NA,47
+ruby,6,pickelweed,1,44,NA,47
+ruby,9,spartina a,90,44,NA,55
+ruby,9,spartina p,10,44,NA,55
+ruby,12,spartina a,80,43,NA,49
+ruby,12,spartina p,19,43,NA,49
+ruby,12,pickelweed,1,43,NA,49
+ruby,15,spartina p,60,46,38,60
+ruby,15,spartina a,40,46,38,60
+ruby,18,dist,2,41,NA,72
+ruby,18,spartina a,2,41,NA,72
+ruby,18,spartina p,96,41,NA,72
+ruby,21,spartina p,90,45,NA,26
+ruby,21,dist,10,45,NA,26
+ruby,24,pickelweed,1,43,NA,100
+ruby,24,phragmites,1,43,NA,100
+ruby,24,spartina p,98,43,NA,100
+ruby,27,spartina p,20,36,33,160
+ruby,27,phragmites,50,36,33,160
+ruby,27,pickelweed,1,36,33,160
+ruby,27,unk,1,36,33,160
+ruby,27,bare,28,36,33,160

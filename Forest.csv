@@ -1,0 +1,70 @@
+﻿Transect_no,Position,Species,Density
+9,7,Holly,NA
+9,7,Smilax,NA
+9,22,Smilax,NA
+9,22,Holly,NA
+10,7,Maple,20
+10,7,Smilax,20
+10,22,Blueberry,20
+10,22,Smilax,20
+10,22,Maple,20
+11,7,Bayberry,22
+11,7,Maple,22
+11,7,Smilax,22
+11,7,Holly,22
+11,22,Holly,22
+11,22,Smilax,22
+12,7,Maple,23
+12,7,Smilax,23
+12,7,Blueberry,23
+12,22,Cedar,23
+12,22,Holly,23
+12,22,Bayberry,23
+13,7,Smilax,23
+13,7,Blueberry,23
+13,22,Smilax,23
+13,22,Blueberry,23
+13,22,Maple,23
+14,7,Cedar,16
+14,7,Smilax,16
+14,7,poison ivy,16
+14,22,Viburnum,16
+14,22,Virginia creeper,16
+14,22,Rose,16
+15,7,Holly,NA
+15,7,Smilax,NA
+15,22,Smilax,NA
+15,22,Holly,NA
+16,7,Blueberry,21
+16,7,Smilax,21
+16,7,Chokeberry,21
+16,22,Maple,21
+16,22,Holly,21
+17,7,Smilax,12
+17,7,Oak,12
+17,22,Smilax,12
+17,22,Oak,12
+19,7,Pitch pine,4
+19,22,Maple,4
+19,22,Smilax,4
+20,7,Holly,21
+20,7,Oak,21
+20,7,Smilax,21
+20,22,Pitch pine,21
+20,22,Holly,21
+21,7,Holly,12
+21,7,Smilax,12
+21,22,Holly,12
+21,22,Smilax,12
+22,7,Holly,NA
+22,7,Smilax,NA
+22,22,Smilax,NA
+22,22,Oak,NA
+23,7,Pitch pine,0
+23,22,NA,0
+24,7,Oak,9
+24,7,Smilax,9
+24,7,Pitch pine,9
+24,22,Oak,9
+25,7,Oak,NA
+25,22,NA,NA
